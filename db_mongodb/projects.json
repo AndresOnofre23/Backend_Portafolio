@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "601c61450e9fd46b6cd03302"
+  },
+  "name": "JHANLUCK ANDRES ONOFRE ESPINAR",
+  "description": "desarrolador\n",
+  "category": "informatica",
+  "year": 2019,
+  "langs": "php",
+  "image": "789835245ff3de93b00e2e60d89d1ed31612472645948.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601c62ee0e9fd46b6cd03303"
+  },
+  "name": "AndresCTR",
+  "description": "enfermero",
+  "category": "ninguno",
+  "year": 2019,
+  "langs": "sql",
+  "image": "796dd696fea27624d2d09984333b17f81612473070317.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601c63090e9fd46b6cd03304"
+  },
+  "name": "naruto",
+  "description": "ninja de la hoja",
+  "category": "genin",
+  "year": 2020,
+  "langs": "japones",
+  "image": "65e8c2ec28a8c409bdcd14295131d7a71612473097863.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601c63730e9fd46b6cd03306"
+  },
+  "name": "pool",
+  "description": "administrador ",
+  "category": "letras",
+  "year": 2019,
+  "langs": "excell",
+  "image": "74e00934d446c591290829be2f25d24b1612473203252.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601df60ff74dc63d28eaa432"
+  },
+  "name": "laloca",
+  "description": "programador",
+  "category": "asdasd",
+  "year": 2019,
+  "langs": "sdasd",
+  "image": "fcd3bbf2238f37fc8819db43b3689b9b1612576271232.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601e0ba9f74dc63d28eaa433"
+  },
+  "name": "JHANLUCK ANDRES ONOFRE ESPINAR",
+  "description": "asdsad",
+  "category": "sdasd",
+  "year": 2019,
+  "langs": "sdasd",
+  "image": "78a581690ab4aa86eefd3e4a173186dc1612581801256.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601e0cb2f74dc63d28eaa434"
+  },
+  "name": "JHANLUCK ANDRES ONOFRE ESPINAR",
+  "description": "dsad",
+  "category": "sdasd",
+  "year": 2019,
+  "langs": "sads",
+  "image": "40146ce0ccb5ca71875ab5da0fb9d2981612582066542.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601e110cf74dc63d28eaa435"
+  },
+  "name": "Jhanluck Andres",
+  "description": "ASDSAD",
+  "category": "ASDASD",
+  "year": 2019,
+  "langs": "ASDASD",
+  "image": "fc81254fc775d4e6252ee344d9eebf191612583180722.jpg",
+  "__v": 0
+}]
