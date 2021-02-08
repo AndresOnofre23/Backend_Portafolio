@@ -26,8 +26,8 @@ npm start
 ```
 
 _Se vere la siguiente imagen_
-![Aquí la descripción de la imagen por si no carga]
-(https://github.com/AndresOnofre23/Backend_Portafolio/blob/master/img/Captura.PNG)
+<img src="/img/Captura.PNG" alt="My cool logo"/>
+
 
 La cual nos indica que funciona correctamente
 
