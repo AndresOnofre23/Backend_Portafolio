@@ -26,6 +26,7 @@ npm start
 ```
 
 _Se vere la siguiente imagen_
+![Aquí la descripción de la imagen por si no carga]
 (https://github.com/AndresOnofre23/Backend_Portafolio/blob/master/img/Captura.PNG)
 
 La cual nos indica que funciona correctamente
@@ -35,5 +36,5 @@ La cual nos indica que funciona correctamente
 ## Ejecutando las pruebas ⚙️
 
 _Una prueba rapida usaremos el postman para las peticiones_
-
+![Aquí la descripción de la imagen por si no carga]
 (https://github.com/AndresOnofre23/Backend_Portafolio/blob/master/img/Captura2.PNG)
