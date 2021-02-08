@@ -26,8 +26,9 @@ npm start
 ```
 
 _Se vere la siguiente imagen_
+<br></br>
 <img src="/img/Captura.PNG" alt="My cool logo"/>
-
+<br></br>
 
 La cual nos indica que funciona correctamente
 
@@ -36,5 +37,10 @@ La cual nos indica que funciona correctamente
 ## Ejecutando las pruebas ⚙️
 
 _Una prueba rapida usaremos el postman para las peticiones_
-![Aquí la descripción de la imagen por si no carga]
-(https://github.com/AndresOnofre23/Backend_Portafolio/blob/master/img/Captura2.PNG)
+<br></br>
+<img src="/img/Captura2.PNG" alt="My cool logo"/>
+<br></br>
+
+
+
+
